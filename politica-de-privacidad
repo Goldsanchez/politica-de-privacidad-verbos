@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Verbos Irregulares y Phrasales</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f7f6;
+        }
+        .container {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 25px;
+        }
+        p, li {
+            font-size: 1.05em;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+            text-align: center;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Política de Privacidad</h1>
+        <p><strong>Aplicación:</strong> Verbos Irregulares y Phrasales</p>
+        <p><strong>Última actualización:</strong> 15 de enero de 2026</p>
+
+        <p>En <strong>GoldSanchez Apps</strong>, nos tomamos muy en serio tu privacidad. Esta política detalla cómo manejamos la información en nuestra aplicación móvil.</p>
+
+        <h2>1. Información que recopilamos</h2>
+        <p>No recopilamos información personal identificable (como tu nombre, dirección o número de teléfono) de forma directa. No requerimos la creación de una cuenta para usar la aplicación.</p>
+
+        <h2>2. Servicios de Terceros</h2>
+        <p>Para ofrecer una mejor experiencia y mantener la aplicación gratuita, utilizamos servicios de terceros que pueden recopilar datos de forma automática:</p>
+        <ul>
+            <li><strong>Google Play Services:</strong> Necesario para el funcionamiento técnico de la app en Android.</li>
+            <li><strong>AdMob (Google):</strong> Para mostrar anuncios. AdMob puede utilizar identificadores de publicidad del dispositivo para personalizar los anuncios.</li>
+            <li><strong>Google Play Billing:</strong> Para gestionar las suscripciones premium. Toda la información de pago es procesada de forma segura por Google.</li>
+        </ul>
+
+        <h2>3. Uso de la Información</h2>
+        <p>Los datos técnicos o de publicidad se utilizan únicamente para:</p>
+        <ul>
+            <li>Procesar y validar la compra de la versión premium (quitar anuncios).</li>
+            <li>Mostrar publicidad relevante al usuario.</li>
+            <li>Analizar errores internos para mejorar la estabilidad de la aplicación.</li>
+        </ul>
+
+        <h2>4. Seguridad de los Datos</h2>
+        <p>La seguridad de tu información es nuestra prioridad. Al utilizar los servicios de facturación y publicidad de Google, tu información está protegida por los estándares de seguridad líderes de la industria de Google.</p>
+
+        <h2>5. Privacidad de los Menores</h2>
+        <p>Esta aplicación es apta para todos los públicos. No recopilamos datos de niños menores de 13 años. Si detectamos que se ha recopilado información personal de un menor, la eliminaremos de inmediato.</p>
+
+        <h2>6. Cambios en esta Política</h2>
+        <p>Es posible que actualicemos nuestra Política de Privacidad de vez en cuando. Se recomienda revisar esta página periódicamente para estar al tanto de cualquier cambio.</p>
+
+        <h2>7. Contacto</h2>
+        <p>Si tienes alguna pregunta sobre esta política, puedes contactarnos en:</p>
+        <p><strong>Correo electrónico:</strong> goldsanchez@hotmail.com</p>
+
+        <div class="footer">
+            <p>&copy; 2026 GoldSanchez Apps. Todos los derechos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
